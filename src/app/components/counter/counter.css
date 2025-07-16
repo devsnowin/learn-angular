@@ -1,0 +1,14 @@
+
+div {
+    display:flex;
+    gap: 1rem;
+}
+
+button {
+  all: unset;
+  padding: 6px 10px;
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
